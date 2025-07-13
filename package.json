@@ -36,12 +36,3 @@
     "vite": "^7.0.4"
   }
 }
-
-
-echo "# apple" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/tearex05/apple.git
-git push -u origin main
